@@ -1,7 +1,7 @@
 # Jupyter-VideoCapture-Demo
 Jupyter notebook上でリアルタイムにカメラ画像を表示するサンプルです。
 
-「【OSC2020 Online Nagoya】Jupyter Notebookでプレゼンテーション - 画像処理編 -」の実処理部分だけ抜き出したリポジトリです。
+「【OSC2020 Online Nagoya】Jupyter Notebookでプレゼンテーション - 画像処理編 -」の実処理部分だけ抜き出したリポジトリです。<br>
 https://speakerdeck.com/kazuhitotakahashi/jupyter-notebook-presentation-for-image-processing
 
 # Requirement
