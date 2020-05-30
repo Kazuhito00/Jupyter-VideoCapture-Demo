@@ -1,6 +1,9 @@
 # Jupyter-VideoCapture-Demo
 Jupyter notebook上でリアルタイムにカメラ画像を表示するサンプルです。
 
+「【OSC2020 Online Nagoya】Jupyter Notebookでプレゼンテーション - 画像処理編 -」の実処理部分だけ抜き出したリポジトリです。
+https://speakerdeck.com/kazuhitotakahashi/jupyter-notebook-presentation-for-image-processing
+
 # Requirement
  
 * OpenCV 3.4.2(or later)
