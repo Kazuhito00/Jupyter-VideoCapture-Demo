@@ -17,5 +17,4 @@ Jupyter上でJupyter-VideoCapture-Demo.ipynbを開いて実行してください
 高橋かずひと(https://twitter.com/KzhtTkhs)
 
 # License
-
-Jupyter-VideoCapture-Demo is under [MIT license](LICENSE.md).
+Jupyter-VideoCapture-Demo is under [MIT license](LICENSE).
